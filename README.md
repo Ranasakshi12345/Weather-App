@@ -47,4 +47,7 @@ Weather App Screenshot :
 
 ![output](https://github.com/Ranasakshi12345/Weather-App/assets/123829259/3c32f3e4-5e39-4dc4-aa16-b1580381fc68)
 
+<h2>Link of Weather App</h2>
+https://animated-conkies-027ef6.netlify.app/
+
 
